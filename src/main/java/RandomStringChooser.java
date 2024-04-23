@@ -1,7 +1,7 @@
 import java.util.*;
 public class RandomStringChooser
 {
-  private ArrayList<String> arr;
+  protected ArrayList<String> arr;
 
   public RandomStringChooser(String[] list){
     arr = new ArrayList<String>();
