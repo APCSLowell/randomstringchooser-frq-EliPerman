@@ -14,4 +14,5 @@ public class RandomStringChooser
     String temp = arr.get(i);
     arr.remove(i);
     return temp;
+  }
 }
